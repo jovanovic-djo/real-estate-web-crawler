@@ -12,6 +12,9 @@ BOT_NAME = "realestate"
 SPIDER_MODULES = ["realestate.spiders"]
 NEWSPIDER_MODULE = "realestate.spiders"
 
+FEEDS = {
+    'apartmentsdata.json': {'format': 'json'},
+}
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "realestate (+http://www.yourdomain.com)"
@@ -62,9 +65,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "realestate.pipelines.RealestatePipeline": 300,
-#}
+ITEM_PIPELINES = {
+   "realestate.pipelines.Apartments4zidaPipeline": 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
