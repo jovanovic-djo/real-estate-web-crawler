@@ -1,6 +1,9 @@
+import random
 import scrapy
 from realestate.items import ApartmentItem
 
+
+NUMBER_OF_PAGES = 5
 
 class ApartmentspiderSpider4zida(scrapy.Spider):
     name = "apartmentspider4zida"
@@ -9,14 +12,14 @@ class ApartmentspiderSpider4zida(scrapy.Spider):
 
     custom_settings = {
         'FEEDS': {
-            'apartmentsdata.json': {'format': 'json', 'overwrite': True},
+            'apartmentsdata.csv': {'format': 'csv', 'overwrite': True},
         }
     }
 
     def parse(self, response):
 
         apartments = response.css('div.flex.flex-col.gap-4')
-
+        
         for item in apartments:
             apartment_item = ApartmentItem()
 
@@ -30,6 +33,14 @@ class ApartmentspiderSpider4zida(scrapy.Spider):
             apartment_item['location'] = item.css('p.line-clamp-2.text-wrap.text-xs.\\!leading-tight.text-foreground\\/60.desk\\:line-clamp-3.desk\\:text-sm::text').get()
             apartment_item['source'] = "4zida"
 
-
             yield apartment_item
+        
+        current_page = int(response.url.split('=')[-1]) if '=' in response.url else 1
+
+        next_page_number = current_page + 1
+
+        if next_page_number <= NUMBER_OF_PAGES:
+            # Construct the URL for the next page
+            next_page = f"https://4zida.rs/prodaja-stanova?strana={next_page_number}"
+            yield response.follow(next_page, callback=self.parse, headers={'User-Agent': random.choice(self.settings.get('USER_AGENTS'))})
 
