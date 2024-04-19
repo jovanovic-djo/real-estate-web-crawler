@@ -5,10 +5,11 @@
 
 
 # useful for handling different item types with a single interface
+import math
 from itemadapter import ItemAdapter
 from scrapy.exceptions import DropItem
 
-class Apartments4zidaPipeline:
+class Apartments4ZidaPipeline:
     def process_item(self, item, spider):
 
         adapter = ItemAdapter(item)
@@ -54,4 +55,32 @@ class Apartments4zidaPipeline:
 
 
             return item
-            
+
+
+class ApartmentsHaloOglasiPipeline:
+    def process_item(self, item, spider):
+        adapter = ItemAdapter(item)
+
+        if not(all(item.values())):
+            raise DropItem()
+        else:
+            adapter['title'] = adapter['title'].strip()
+
+            adapter['price'] = int(adapter['price'].replace('.','').replace('€', '').strip())
+            if adapter['price'] < 5000:
+                raise DropItem()
+
+            adapter['square_price'] = int(adapter['square_price'].replace('.','').replace('€/m', '').strip())
+
+            adapter['area'] = int(math.ceil(float(adapter['area'].replace('m','').replace(',', '.').strip())))
+
+            adapter['rooms'] = float(adapter['rooms'].strip())
+
+            adapter['floor'] = adapter['floor'].split('/')[0].strip()
+
+            adapter['city'] = adapter['city'].strip()
+
+            adapter['location'] = adapter['location']
+
+
+            return item

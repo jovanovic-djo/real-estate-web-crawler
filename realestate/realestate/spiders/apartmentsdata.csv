@@ -1,106 +1,300 @@
 area,city,floor,location,price,rooms,source,square_price,title
-48,Novi Sad,2,"Sadovi, Gradske lokacije",84700,2.5,4zida,1765,Petrovaradin
-48,Novi Sad,2,"Sadovi, Gradske lokacije",84700,2.5,4zida,1765,Petrovaradin
-130,Beograd,0,"Petlovo Brdo, Rakovica opština",142000,3.5,4zida,1092,Nićifora Ninkovića
-32,Beograd,-1,"Filmski Grad, Čukarica, Čukarica opština",54500,1.5,4zida,1703,Nebojše Đukelića
-229,Beograd,1,"Petlovo Brdo, Rakovica opština",265500,6.0,4zida,1159,Braće Deroko
-129,Novi Sad,5,"Salajka, Gradske lokacije",150000,4.0,4zida,2381,Partizanska 62
-120,Beograd,5,"Banovo Brdo, Čukarica, Čukarica opština",315000,3.0,4zida,2625,Nodilova
-55,Beograd,1,"Železnik, Čukarica, Čukarica opština",96900,2.0,4zida,1762,Darinke Radović
-47,Beograd,1,"Vidikovačka Padina, Vidikovac, Rakovica opština",95000,2.5,4zida,2021,Dimitrija Konjovića
-90,Beograd,3,"Vidikovačka Padina, Vidikovac, Rakovica opština",135000,4.0,4zida,1500,Dimitrija Konjovića
-33,Niš,2,"Palilula, Gradske lokacije",69850,0.5,4zida,2068,BEETHOVEN'S PARK
-51,Novi Sad,1,Gradske lokacije,86700,3.0,4zida,1700,Adice
-39,Novi Sad,2,Gradske lokacije,64890,1.5,4zida,1664,Adice
-61,Novi Sad,5,Gradske lokacije,174250,2.5,4zida,2857,Bulevar Evrope
-78,Novi Sad,6,"Liman, Gradske lokacije",169950,3.5,4zida,2179,Liman 3
-52,Ljubovija,3,Gradske lokacije,70000,2.0,4zida,3333,Stambeni objekat LUX novogradnja Ljubovija
-46,Beograd,1,"Savski Trg, Savamala, Savski Venac",135000,2.0,4zida,2935,Karađorđeva
-79,Beograd,2,"Dorćol, Stari Grad opština",220000,3.0,4zida,2785,Solunska
-56,Beograd,3,"Konjarnik, Zvezdara opština",119000,1.5,4zida,2125,Olge Alkalaj
-31,Beograd,0,"Crveni Krst Zvezdara, Zvezdara opština",95000,2.0,4zida,3065,Branka Krsmanovića
-105,Beograd,4,"Dorćol, Stari Grad opština",245000,4.0,4zida,2333,Strahinjića Bana
-15,Beograd,5,"Dorćol, Stari Grad opština",57000,0.5,4zida,3800,Visokog Stevana
-15,Beograd,5,"Dorćol, Stari Grad opština",57000,0.5,4zida,3800,Visokog Stevana
-30,Beograd,2,"Kluz, Zvezdara opština",125000,1.0,4zida,4167,Milana Rakića
-84,Beograd,9,"Blok 62, Bežanijski Blokovi, Novi Beograd",199000,3.5,4zida,2369,Jurija Gagarina
-71,Beograd,3,"Vojvode Vlahovića Voždovac, Voždovac opština",110000,4.0,4zida,1549,Milovana Vidakovića
-64,Novi Sad,3,"Grbavica, Gradske lokacije",179000,3.0,4zida,2754,Novogradnja na Grbavici
-65,Beograd,3,"Hram Svetog Save, Neimar, Vračar",195000,2.0,4zida,3000,Katanićeva
-94,Beograd,3,"Palilula, Palilula opština",324300,3.0,4zida,3450,Kneza Danila
-114,Beograd,14,"Beograd na vodi, Savski Venac",595000,4.0,4zida,5219,Hercegovačka
-88,Beograd,5,"Golf Naselje, Čukarica, Čukarica opština",222000,4.5,4zida,2523,Petra Martinovića
-71,Novi Sad,1,"Adice, Gradske lokacije",1980,3.0,4zida,36,Useljiva novogradnja u Adicama
-52,Beograd,n/a,"Mirijevo, Zvezdara opština",91500,2.0,4zida,1760,Nade Purić
-30,Beograd,5,"Hadžipopovac, Palilula opština",110000,1.5,4zida,3667,Primorska
-53,Beograd,1,Vračar,249000,2.0,4zida,4698,Loznička
-67,Beograd,3,"Višnjička Banja, Palilula opština",125000,2.5,4zida,1866,Višnjički venac
-37,Sokobanja,p,Gradske lokacije,185000,1.5,4zida,3426,Novogradnja Sokobanja
-73,Beograd,4,"Hram Svetog Save, Neimar, Vračar",240000,3.0,4zida,3288,Nebojšina
-115,Beograd,3,"Dedinje, Savski Venac",338000,4.0,4zida,2939,Borivoja Drobnjakovića
-101,Beograd,3,"Gundulićev Venac, Donji Dorćol, Dorćol, Stari Grad opština",350000,3.0,4zida,3465,Bulevar despota Stefana
-56,Beograd,1,"Mirijevo, Zvezdara opština",125000,2.5,4zida,2232,Ljube Danilovića
-50,Beograd,0,"Kotež, Palilula opština",84000,2.0,4zida,1680,Franca Bevka
-87,Beograd,1,"Cerak, Čukarica, Čukarica opština",159000,3.0,4zida,1828,Jablanička
-87,Beograd,1,"Cerak, Čukarica, Čukarica opština",159000,3.0,4zida,1828,Jablanička
-71,Beograd,1,"Zeleno Brdo, Zvezdara opština",115000,2.0,4zida,1620,Lošinjska donja
-72,Beograd,4,"Mirijevo, Zvezdara opština",147000,3.0,4zida,2042,Mirka Banjevića
-92,Beograd,n/a,"Beograd centar, Stari Grad opština",368000,4.0,4zida,4000,Vojvode Dobrnjca
-86,Niš,3,"Centar, Medijana, Gradske lokacije",164500,3.5,4zida,2350,Zelengorska
-73,Beograd,2,Voždovac opština,175000,2.5,4zida,2397,Šumice
-100,Beograd,1,"Klinički Centar, Savski Venac",325000,3.0,4zida,3250,Birčaninova
-50,Beograd,4,"Banovo Brdo, Čukarica, Čukarica opština",120000,2.0,4zida,2400,Požeška
-63,Beograd,6,"Šumice, Voždovac opština",155000,2.5,4zida,2460,Ljermontova
-55,Beograd,1,"Rakovica, Rakovica opština",26900,3.0,4zida,996,Miljakovačke Staze 28G
-58,Zrenjanin,3,Gradske lokacije,61000,2.0,4zida,1052,Lesnina
-68,Novi Sad,5,"Bistrica, Novo Naselje, Gradske lokacije",118600,3.0,4zida,1744,Bulevar kneza Miloša
-85,Beograd,2,"Miljakovac III, Miljakovac, Rakovica opština",173500,4.0,4zida,2041,Dr Andrejke
-220,Sremska Mitrovica,1,"Centar, Gradske lokacije",250000,4.0,4zida,1136,Trg Ćire Milekića
-117,Novi Sad,-1,"Mali Beograd, Gradske lokacije",126000,4.0,4zida,1575,Urbana vile
-72,Beograd,4,"Autokomanda, Voždovac opština",190000,3.0,4zida,2639,Kumodraška
-40,Beograd,-1,"Crveni Krst Vračar, Vračar",95000,1.0,4zida,2375,Jovana Rajića
-35,Beograd,0,"Mirijevo, Zvezdara opština",50000,1.5,4zida,1429,Nikole Doksata
-85,Beograd,2,"Mirijevo, Zvezdara opština",156000,4.0,4zida,1835,Koste Nađa
-98,Beograd,4,"Hram Svetog Save, Neimar, Vračar",286000,3.5,4zida,2918,Internacionalnih brigada
-108,Beograd,2,"Hram Svetog Save, Neimar, Vračar",288000,3.5,4zida,2667,Sokolska
-108,Beograd,2,"Hram Svetog Save, Neimar, Vračar",288000,3.5,4zida,2667,Sokolska
-43,Beograd,8,"Blok 11c - Stari Merkator, Blok 11, Novi Beograd",118000,1.5,4zida,2744,Otona Župančiča
-58,Beograd,9,"Blok 1 - Fontana, Novi Beograd",150000,2.0,4zida,2586,Pariske komune
-73,Novi Sad,1,Gradske lokacije,175100,3.0,4zida,2399,Bulevar Oslobođenja
-88,Novi Sad,1,Okolne lokacije,283550,3.5,4zida,2650,VILA TWINS
-48,Beograd,1,"Altina, Zemun, Zemun opština",91200,2.0,4zida,1900,Ugrinovački put VIII deo 34
-55,Beograd,1,"Altina, Zemun, Zemun opština",104500,2.0,4zida,1900,Ugrinovački put VIII deo 34
-88,Beograd,0,"Altina, Zemun, Zemun opština",115000,2.0,4zida,1307,Ugrinovačka VIII deo
-88,Novi Sad,n/a,"Detelinara, Gradske lokacije",195000,4.0,4zida,2216,Nova Detelinara
-43,Novi Sad,3,"Telep, Gradske lokacije",155000,2.0,4zida,2500,Dream Home Residence
-30,Niš,1,"Železnička Stanica, Palilula, Gradske lokacije",43500,1.0,4zida,1450,Prokupačka 18
-63,Niš,1,"Centar, Medijana, Gradske lokacije",103131,2.5,4zida,1637,Cetinjska 1
-59,Beograd,0,Kalenić,210000,2.0,4zida,3559,Vračar
-59,Beograd,6,"Braće Jerković, Voždovac opština",130000,2.5,4zida,2203,Indire Gandi
-46,Novi Sad,0,"Adice, Gradske lokacije",62000,2.0,4zida,1329,Aeterna Lux
-64,Beograd,1,"Zemun Polje, Zemun, Zemun opština",98000,2.5,4zida,1531,Franje Krča
-69,Beograd,n/a,"Hadžipopovac, Palilula opština",172000,2.0,4zida,2493,Zdravka Čelara
-41,Beograd,2,"Mirijevo III, Mirijevo, Zvezdara opština",73800,1.5,4zida,1800,Rudi Čajaveca
-36,Zlatibor,6,"Centar, Gradske lokacije",90000,1.5,4zida,2500,"LUX, Zlatibor, Titova vila"
-108,Beograd,2,Beograd,461027,3.0,4zida,4269,Vračar
-65,Beograd,9,"Botanička Bašta, Palilula opština",210000,2.0,4zida,3231,Šajkaška
-65,Beograd,9,"Botanička Bašta, Palilula opština",210000,2.0,4zida,3231,Šajkaška
-26,Beograd,8,"Palata Pravde, Savski Venac",103000,1.0,4zida,3962,Savska
-59,Niš,0,Gradske lokacije,88600,2.5,4zida,1502,Palilula
-85,Niš,6,"Medijana, Gradske lokacije",127000,2.5,4zida,1494,Čair
-158,Jagodina,p,"Centar, Gradske lokacije",89460,2.5,4zida,1542,NEW DISTRICT Lamela B
-66,Niš,1,"Medijana, Gradske lokacije",140390,2.5,4zida,2127,Centar
-74,Beograd,6,"Donji Dorćol, Dorćol, Stari Grad opština",245000,2.5,4zida,3311,Solunska
-35,Beograd,3,"Bulbulder, Zvezdara opština",85000,1.5,4zida,2429,Veljka Dugoševića
-46,Niš,1,"Medijana, Gradske lokacije",92000,1.5,4zida,2000,Centar
-178,Jagodina,p,"Centar, Gradske lokacije",102450,4.0,4zida,1933,NEW DISTRICT Lamela A
-43,Niš,1,Gradske lokacije,71050,1.5,4zida,1652,Pantelej
-65,Niš,3,"Centar, Medijana, Gradske lokacije",126165,3.0,4zida,1941,Trg Kralja Aleksandra Ujedinitelja
-59,Niš,3,"Medijana, Gradske lokacije",88500,2.5,4zida,1500,Dom Zdravlja
-78,Niš,3,Gradske lokacije,119740,3.5,4zida,1535,Palilula
-37,Kopaonik,1,Kopaonik,66834,2.0,4zida,1800,Hermes - Planinski dom
-73,Beograd,3,"Konjarnik, Zvezdara opština",165000,2.0,4zida,2260,Rudo
-190,Beograd,4,"Neimar, Vračar",543990,5.0,4zida,2863,Gospodara Vučića
-75,Beograd,4,"Klinički Centar, Savski Venac",220000,3.0,4zida,2933,Višegradska
-80,Beograd,1,"Čukarica, Čukarica opština",259482,4.0,4zida,3244,Banovo Brdo
-34,Novi Sad,n/a,"Podbara, Gradske lokacije",72250,1.0,4zida,2125,Bele Njive
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+37,Beograd,VI,1,124000,1.0,halooglasi,3351,Atraktivna garsonjera Novi Beograd
+62,Stara Pazova,I,1,71300,3.0,halooglasi,1150,Ekskluziva u Staroj Pazovi - stan 38 m2
+55,Stara Pazova,PR,1,68075,3.0,halooglasi,1250,"Ekskluziva u Staroj Pazovi - stan 54,46 m2"
+99,Stara Pazova,II,1,117984,4.0,halooglasi,1200,"Ekskluziva u Staroj Pazovi - stan 98,32 m2"
+49,Stara Pazova,I,1,55338,2.0,halooglasi,1150,"Ekskluziva u Staroj Pazovi - stan 48,12 m2"
+60,Beograd,II,1,67000,2.0,halooglasi,1117,Prodajem dvosoban stan u Sremčici
+94,Beograd,XII,1,333850,4.0,halooglasi,3552,"Voždove kapije, neuseljavan, garaža, ID 22251"
+56,Beograd,IV,1,101000,2.5,halooglasi,1804,Prodaja stana Mirijevo 56m2+terasa
+97,Beograd,VII,1,294000,3.0,halooglasi,3031,"Belvil, stan sa garažnim mestom"
+49,Beograd,XI,1,95000,1.5,halooglasi,1939,Jednoiposoban stan na Konjarniku |Ustanicka | 49m2
+64,Beograd,III,1,139000,3.0,halooglasi,2172,"Milana Stepanovića Matroza, Prvomajska, Zemun"
+81,Beograd,I,1,225000,4.0,halooglasi,2804,"Davida Pajića, Lekino brdo, Voždovac"
+55,Stara Pazova,PR,1,59900,2.5,halooglasi,1100,Stara Pazova; Direktno od investitora
+39,Beograd,I,1,68250,1.5,halooglasi,1750,Jednoiposobni stanovi od 29m2 do 46m2
+124,Beograd,II,1,335000,4.0,halooglasi,2702,"Udoban 4.0, nov Lux, Vojvode Stepe, mermerni ulaz"
+48,Beograd,V,1,139000,1.5,halooglasi,2896,"Stan u srcu Vračara, u blizini Kalenić pijace"
+34,Zlatibor,IV,1,74800,1.0,halooglasi,2200,DeLux stan sa Wellness & Spa - centar
+134,Beograd,XV,1,740000,4.0,halooglasi,5522,"BGD na Vodi,4.0 duplex,134 m2,opremljen,garaža"
+134,Beograd,XV,1,740000,4.0,halooglasi,5522,"BGD na Vodi,4.0 duplex,134 m2,opremljen,garaža"
+134,Beograd,XV,1,740000,4.0,halooglasi,5522,"BGD na Vodi,4.0 duplex,134 m2,opremljen,garaža"
+75,Beograd,II,1,217500,3.5,halooglasi,2900,"Izuzetna lokacija, Banovo brdo, 3.5 stan"
+57,Beograd,II,1,188500,2.0,halooglasi,3307,"Savski venac, odlična ponuda, ID 22249"
+85,Pančevo,I,1,126000,3.5,halooglasi,1482,"Useljiv 3.5 stan, povrat PDV-a"
+48,Pančevo,PR,1,66500,2.0,halooglasi,1403,"Novogradnja, Žarka Zrenjanina, Pančevo"
+83,Pančevo,I,1,115500,3.5,halooglasi,1400,"Stan, Zarka Zrenjanina, Pancevo"
+73,Pančevo,III,1,105052,2.5,halooglasi,1450,"Stan, Zarka Zrenjanina, Pancevo"
+45,Beograd,IX,1,179900,1.5,halooglasi,3998,"Belvill 45 m2, 1.5,Lep, Miran,Namešten,Svetao"
+80,Beograd,II,1,229900,3.0,halooglasi,2874,Lux nov stan sa parkingom
+65,Beograd,PR,1,164900,2.0,halooglasi,2537,Dorćol odmah useljiv uknjižen stan
+48,Beograd,IV,1,142200,2.0,halooglasi,3000,Mesto gde vaš novac vredi više
+65,Beograd,VI,1,186615,2.5,halooglasi,2900,Mesto gde vaš novac vredi više
+49,Beograd,VI,1,146790,2.5,halooglasi,3000,Mesto gde vaš novac vredi više
+78,Beograd,III,1,215000,2.5,halooglasi,2756,"Novi Beograd, Hotel Jugoslavija - Aleksinačkih rud"
+76,Beograd,I,1,111200,2.5,halooglasi,1463,Dobanovci Stan 76 dvoiposoban
+46,Beograd,II,1,96140,2.0,halooglasi,2090,Stan 46m2 udaljen 1km od Olimpa 1900€/m2 plus pdv
+47,Beograd,I,1,131500,2.0,halooglasi,2798,Jedinstven
+101,Pančevo,III,1,132000,4.0,halooglasi,1307,Prodajem lux stan u novogradnji Pancevo
+34,Zlatibor,PR,1,68000,1.0,halooglasi,2024,"Zlatiborske terase 33,6m2 lux, poslednji"
+41,Beograd,I,1,158000,1.0,halooglasi,3854,"Prelep stan u srcu Dedinja, retko u ponudi ID#1255"
+41,Beograd,I,1,158000,1.0,halooglasi,3854,"Prelep stan u srcu Dedinja, retko u ponudi ID#1255"
+41,Beograd,I,1,158000,1.0,halooglasi,3854,"Prelep stan u srcu Dedinja, retko u ponudi ID#1255"
+22,Beograd,V,1,85000,0.5,halooglasi,3864,Retko u prodaji garosnjera na odličnoj lokaciji ID
+79,Beograd,VPR,1,144000,3.5,halooglasi,1823,"Mirijevo, Koste Nadja, 3.5, 79 m2"
+65,Beograd,III,1,107250,3.0,halooglasi,1650,Altina Hemingvejeva
+44,Beograd,XVI,1,125000,1.0,halooglasi,2841,Novi Beograd-Blok 30 ID#131106
+45,Beograd,VII,1,173250,2.0,halooglasi,3850,Novi Beograd-Sakura Park- PLUS PDV 10% ID#1162
+40,Zlatibor,II,1,124000,1.5,halooglasi,3100,"Apartman u hotelu sa 5*, opremljen, useljiv"
+101,Beograd,II,1,370000,2.5,halooglasi,3663,"Resavska, 101 m2, 2,5 stan, Parking"
+220,Beograd,VI,1,800000,4.0,halooglasi,3636,"Lux Penthaus, Duplex, Opremljen, Garaža, 220 m2"
+91,Beograd,II,1,330000,4.0,halooglasi,3626,Dedinje - Beli Dvor-4.0-Garaža-Uknjižen ID#2548
+64,Beograd,VPR,1,168000,2.5,halooglasi,2625,Ekskluzivno u ponudi stan na Dusanovcu
+50,Beograd,II,1,94750,3.0,halooglasi,1895,"Mirijevo, trosoban, 50 m2, II sprat, svetao stan"
+28,Beograd,I,1,72800,1.0,halooglasi,2600,"Odličan prostor, Vojvode Stepe"
+61,Beograd,I,1,299000,2.0,halooglasi,4902,"Lux 2.0 stan, Central garden ID#122726"
+39,Zlatibor,I,1,89700,2.0,halooglasi,2300,LUX Apartman-Kalman-Centar
+48,Beograd,II,1,120000,2.0,halooglasi,2500,"Dvosoban stan na prodaju, Olimp"
+88,Beograd,III,1,328000,3.0,halooglasi,3727,"Trosoban stan na prodaju, Gundulićev Venac"
+44,Beograd,III,1,131500,1.5,halooglasi,2997,"Prodaja stana Voždovac,43.88m2,jednoiposoban,lux I"
+42,Beograd,II,1,88000,1.0,halooglasi,2095,"Košutnjak,prodaja stana,41m2,dvosoban,novogradnja"
+46,Beograd,II,1,92000,1.5,halooglasi,2000,"Prodaja stana,Zvezdara,trosoban,lux,u izgradnji ID"
+64,Beograd,II,1,112000,3.0,halooglasi,1750,"Zvezdara,trosoban stan,lux,u izgradnji ID#1442"
+64,Beograd,II,1,112000,3.0,halooglasi,1750,"Zvezdara,trosoban stan,lux,u izgradnji ID#1442"
+64,Beograd,II,1,112000,3.0,halooglasi,1750,"Zvezdara,trosoban stan,lux,u izgradnji ID#1442"
+66,Beograd,I,1,263200,2.5,halooglasi,4000,"Vračar stan dvoiposoban,lux ID#1448"
+62,Beograd,IV,1,132000,2.5,halooglasi,2154,"Voje Veljkovića,Zvezdara,prodaja sstana i garaže,6"
+42,Zlatibor,IV,1,108000,2.0,halooglasi,2602,"Erska, Lux namešten apartman, garaža, Preporuka"
+110,Novi Sad,I,1,325000,5.0,halooglasi,2955,Salonski stan uzi centar!
+155,Beograd,III,1,499000,4.0,halooglasi,3219,Vračar-Crkva Svetog Marka-155m2-Uknjižen ID#2594
+60,Beograd,I,1,108300,2.5,halooglasi,1805,"Alaska, Gornji grad, Zemun"
+105,Beograd,VPR,1,400000,3.0,halooglasi,3810,"Pregrevica, 105m2, smarthome, trosoban, namesten"
+43,Zlatibor,VII,1,155000,1.5,halooglasi,3605,"Izuzetan Lux apartman, Wellnes&Spa, Garaža"
+77,Beograd,II,1,235000,3.0,halooglasi,3052,"Zemun, Dobanovačka, novogradnja, 3.0, 77m2 ID#2475"
+84,Pančevo,I,1,108428,3.5,halooglasi,1299,"Uskršnji Popust! Pančevo, Maksima Gorkog 94"
+65,Beograd,PR,1,143000,2.5,halooglasi,2200,Centar-Palilula ID#1116
+64,Beograd,II,1,204800,3.0,halooglasi,3200,"Novogradnja,64m2, 3.0 Dimitrija Tucovica,Beograd"
+126,Beograd,VI,1,441000,4.0,halooglasi,3500,"126m2 – Kapetan Mišina, Dorćol, Beograd"
+37,Beograd,II,1,63000,1.5,halooglasi,1703,Altina novogradnja
+44,Zlatibor,PR,1,70000,2.0,halooglasi,1591,Exkluzivni apartman na Zlatiboru- novogradnja
+57,Beograd,I,1,98000,3.0,halooglasi,1742,"Ledine, 3.0 stan, 56.25m2, novogradnja,park. mesto"
+105,Beograd,VII,1,380000,4.0,halooglasi,3619,"Palilula centar, pored Central Gardena, 4.0, 105m2"
+68,Beograd,VPR,1,145000,3.0,halooglasi,2132,Odličan stan po super ceni
+area,city,floor,location,price,rooms,source,square_price,title
+30,Novi Sad,1,"Banatić, Gradske lokacije",67000,1.0,4zida,2233,Železnička stanica
+30,Novi Sad,1,"Banatić, Gradske lokacije",67000,1.0,4zida,2233,Železnička stanica
+25,Beograd,1,"Vidikovac, Rakovica opština",48000,0.5,4zida,1920,Kneza Višeslava
+38,Niš,2,"Medijana, Gradske lokacije",86600,1.5,4zida,2279,Bulevar Nemanjića
+82,Niš,5,"Pantelej, Gradske lokacije",86000,3.5,4zida,1049,Durlan
+121,Novi Sad,3,"Grbavica, Gradske lokacije",118450,4.0,4zida,2692,Novogradnja na Grbavici
+55,Niš,4,"Bulevar Nemanjića, Medijana, Gradske lokacije",83200,2.0,4zida,1513,Park Svetog Save
+43,Niš,2,"Pantelej, Gradske lokacije",66650,1.5,4zida,1550,Somborska
+65,Niš,3,"Pantelej, Gradske lokacije",92000,3.0,4zida,1415,Durlan
+40,Niš,7,"Pantelej, Gradske lokacije",65000,1.5,4zida,1625,Somborska
+123,Kragujevac,2,"Stari Grad, Gradske lokacije",99750,4.0,4zida,1882,Novogradnja Kragujevac - Janka Veselinovića - Milovana Gušića - Svetozara Markovića
+30,Novi Sad,6,"Liman, Gradske lokacije",82500,1.0,4zida,2750,Liman 4
+70,Beograd,4,"Hotel YU, Novi Beograd",165000,3.0,4zida,2357,Aleksinackih rudara
+84,Beograd,2,"Mirijevo, Zvezdara opština",156000,3.5,4zida,1857,Koste Nadja
+62,Beograd,0,"Blok 45, Novi Beograd",139000,2.5,4zida,2242,Jurija Gagarina
+79,Kragujevac,3,"Erdoglija, Gradske lokacije",126037,3.0,4zida,1595,Harmony Homes
+74,Beograd,6,"Botanička Bašta, Palilula opština",224000,3.0,4zida,3027,Bul. despota Stefana
+73,Beograd,16,"Blok 23, Novi Beograd",179900,3.0,4zida,2464,Bul. Milutina Milankovica
+67,Beograd,9,"Vidikovac, Rakovica opština",99000,2.5,4zida,1478,Vidikovacki venac
+67,Beograd,0,"Borča, Palilula opština",93700,2.0,4zida,1399,Borča IV i V
+60,Beograd,1,"Bulbulder, Zvezdara opština",176000,3.0,4zida,2933,Mariborska
+area,city,floor,location,price,rooms,source,square_price,title
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+37,Beograd,VI,1,124000,1.0,halooglasi,3351,Atraktivna garsonjera Novi Beograd
+62,Stara Pazova,I,1,71300,3.0,halooglasi,1150,Ekskluziva u Staroj Pazovi - stan 38 m2
+55,Stara Pazova,PR,1,68075,3.0,halooglasi,1250,"Ekskluziva u Staroj Pazovi - stan 54,46 m2"
+99,Stara Pazova,II,1,117984,4.0,halooglasi,1200,"Ekskluziva u Staroj Pazovi - stan 98,32 m2"
+49,Stara Pazova,I,1,55338,2.0,halooglasi,1150,"Ekskluziva u Staroj Pazovi - stan 48,12 m2"
+60,Beograd,II,1,67000,2.0,halooglasi,1117,Prodajem dvosoban stan u Sremčici
+94,Beograd,XII,1,333850,4.0,halooglasi,3552,"Voždove kapije, neuseljavan, garaža, ID 22251"
+56,Beograd,IV,1,101000,2.5,halooglasi,1804,Prodaja stana Mirijevo 56m2+terasa
+97,Beograd,VII,1,294000,3.0,halooglasi,3031,"Belvil, stan sa garažnim mestom"
+49,Beograd,XI,1,95000,1.5,halooglasi,1939,Jednoiposoban stan na Konjarniku |Ustanicka | 49m2
+64,Beograd,III,1,139000,3.0,halooglasi,2172,"Milana Stepanovića Matroza, Prvomajska, Zemun"
+81,Beograd,I,1,225000,4.0,halooglasi,2804,"Davida Pajića, Lekino brdo, Voždovac"
+55,Stara Pazova,PR,1,59900,2.5,halooglasi,1100,Stara Pazova; Direktno od investitora
+39,Beograd,I,1,68250,1.5,halooglasi,1750,Jednoiposobni stanovi od 29m2 do 46m2
+124,Beograd,II,1,335000,4.0,halooglasi,2702,"Udoban 4.0, nov Lux, Vojvode Stepe, mermerni ulaz"
+48,Beograd,V,1,139000,1.5,halooglasi,2896,"Stan u srcu Vračara, u blizini Kalenić pijace"
+area,city,floor,location,price,rooms,source,square_price,title
+30,Novi Sad,1,"Banatić, Gradske lokacije",67000,1.0,4zida,2233,Železnička stanica
+30,Novi Sad,1,"Banatić, Gradske lokacije",67000,1.0,4zida,2233,Železnička stanica
+25,Beograd,1,"Vidikovac, Rakovica opština",48000,0.5,4zida,1920,Kneza Višeslava
+38,Niš,2,"Medijana, Gradske lokacije",86600,1.5,4zida,2279,Bulevar Nemanjića
+82,Niš,5,"Pantelej, Gradske lokacije",86000,3.5,4zida,1049,Durlan
+121,Novi Sad,3,"Grbavica, Gradske lokacije",118450,4.0,4zida,2692,Novogradnja na Grbavici
+55,Niš,4,"Bulevar Nemanjića, Medijana, Gradske lokacije",83200,2.0,4zida,1513,Park Svetog Save
+43,Niš,2,"Pantelej, Gradske lokacije",66650,1.5,4zida,1550,Somborska
+65,Niš,3,"Pantelej, Gradske lokacije",92000,3.0,4zida,1415,Durlan
+40,Niš,7,"Pantelej, Gradske lokacije",65000,1.5,4zida,1625,Somborska
+123,Kragujevac,2,"Stari Grad, Gradske lokacije",99750,4.0,4zida,1882,Novogradnja Kragujevac - Janka Veselinovića - Milovana Gušića - Svetozara Markovića
+30,Novi Sad,6,"Liman, Gradske lokacije",82500,1.0,4zida,2750,Liman 4
+70,Beograd,4,"Hotel YU, Novi Beograd",165000,3.0,4zida,2357,Aleksinackih rudara
+84,Beograd,2,"Mirijevo, Zvezdara opština",156000,3.5,4zida,1857,Koste Nadja
+62,Beograd,0,"Blok 45, Novi Beograd",139000,2.5,4zida,2242,Jurija Gagarina
+79,Kragujevac,3,"Erdoglija, Gradske lokacije",126037,3.0,4zida,1595,Harmony Homes
+74,Beograd,6,"Botanička Bašta, Palilula opština",224000,3.0,4zida,3027,Bul. despota Stefana
+73,Beograd,16,"Blok 23, Novi Beograd",179900,3.0,4zida,2464,Bul. Milutina Milankovica
+67,Beograd,9,"Vidikovac, Rakovica opština",99000,2.5,4zida,1478,Vidikovacki venac
+67,Beograd,0,"Borča, Palilula opština",93700,2.0,4zida,1399,Borča IV i V
+60,Beograd,1,"Bulbulder, Zvezdara opština",176000,3.0,4zida,2933,Mariborska
+area,city,floor,location,price,rooms,source,square_price,title
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+37,Beograd,VI,1,124000,1.0,halooglasi,3351,Atraktivna garsonjera Novi Beograd
+62,Stara Pazova,I,1,71300,3.0,halooglasi,1150,Ekskluziva u Staroj Pazovi - stan 38 m2
+55,Stara Pazova,PR,1,68075,3.0,halooglasi,1250,"Ekskluziva u Staroj Pazovi - stan 54,46 m2"
+99,Stara Pazova,II,1,117984,4.0,halooglasi,1200,"Ekskluziva u Staroj Pazovi - stan 98,32 m2"
+49,Stara Pazova,I,1,55338,2.0,halooglasi,1150,"Ekskluziva u Staroj Pazovi - stan 48,12 m2"
+60,Beograd,II,1,67000,2.0,halooglasi,1117,Prodajem dvosoban stan u Sremčici
+94,Beograd,XII,1,333850,4.0,halooglasi,3552,"Voždove kapije, neuseljavan, garaža, ID 22251"
+56,Beograd,IV,1,101000,2.5,halooglasi,1804,Prodaja stana Mirijevo 56m2+terasa
+97,Beograd,VII,1,294000,3.0,halooglasi,3031,"Belvil, stan sa garažnim mestom"
+49,Beograd,XI,1,95000,1.5,halooglasi,1939,Jednoiposoban stan na Konjarniku |Ustanicka | 49m2
+64,Beograd,III,1,139000,3.0,halooglasi,2172,"Milana Stepanovića Matroza, Prvomajska, Zemun"
+81,Beograd,I,1,225000,4.0,halooglasi,2804,"Davida Pajića, Lekino brdo, Voždovac"
+55,Stara Pazova,PR,1,59900,2.5,halooglasi,1100,Stara Pazova; Direktno od investitora
+39,Beograd,I,1,68250,1.5,halooglasi,1750,Jednoiposobni stanovi od 29m2 do 46m2
+124,Beograd,II,1,335000,4.0,halooglasi,2702,"Udoban 4.0, nov Lux, Vojvode Stepe, mermerni ulaz"
+48,Beograd,V,1,139000,1.5,halooglasi,2896,"Stan u srcu Vračara, u blizini Kalenić pijace"
+area,city,floor,location,price,rooms,source,square_price,title
+30,Novi Sad,1,"Banatić, Gradske lokacije",62000,1.0,4zida,2067,Železnička stanica
+30,Novi Sad,1,"Banatić, Gradske lokacije",62000,1.0,4zida,2067,Železnička stanica
+25,Beograd,1,"Vidikovac, Rakovica opština",48000,0.5,4zida,1920,Kneza Višeslava
+38,Niš,2,"Medijana, Gradske lokacije",86600,1.5,4zida,2279,Bulevar Nemanjića
+82,Niš,5,"Pantelej, Gradske lokacije",86000,3.5,4zida,1049,Durlan
+121,Novi Sad,3,"Grbavica, Gradske lokacije",118450,4.0,4zida,2692,Novogradnja na Grbavici
+55,Niš,4,"Bulevar Nemanjića, Medijana, Gradske lokacije",83200,2.0,4zida,1513,Park Svetog Save
+43,Niš,2,"Pantelej, Gradske lokacije",66650,1.5,4zida,1550,Somborska
+65,Niš,3,"Pantelej, Gradske lokacije",92000,3.0,4zida,1415,Durlan
+40,Niš,7,"Pantelej, Gradske lokacije",65000,1.5,4zida,1625,Somborska
+123,Kragujevac,2,"Stari Grad, Gradske lokacije",99750,4.0,4zida,1882,Novogradnja Kragujevac - Janka Veselinovića - Milovana Gušića - Svetozara Markovića
+30,Novi Sad,6,"Liman, Gradske lokacije",82500,1.0,4zida,2750,Liman 4
+70,Beograd,4,"Hotel YU, Novi Beograd",165000,3.0,4zida,2357,Aleksinackih rudara
+84,Beograd,2,"Mirijevo, Zvezdara opština",156000,3.5,4zida,1857,Koste Nadja
+62,Beograd,0,"Blok 45, Novi Beograd",139000,2.5,4zida,2242,Jurija Gagarina
+79,Kragujevac,3,"Erdoglija, Gradske lokacije",126037,3.0,4zida,1595,Harmony Homes
+74,Beograd,6,"Botanička Bašta, Palilula opština",224000,3.0,4zida,3027,Bul. despota Stefana
+73,Beograd,16,"Blok 23, Novi Beograd",179900,3.0,4zida,2464,Bul. Milutina Milankovica
+67,Beograd,9,"Vidikovac, Rakovica opština",99000,2.5,4zida,1478,Vidikovacki venac
+67,Beograd,0,"Borča, Palilula opština",93700,2.0,4zida,1399,Borča IV i V
+60,Beograd,1,"Bulbulder, Zvezdara opština",176000,3.0,4zida,2933,Mariborska
+area,city,floor,location,price,rooms,source,square_price,title
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+37,Beograd,VI,1,124000,1.0,halooglasi,3351,Atraktivna garsonjera Novi Beograd
+62,Stara Pazova,I,1,71300,3.0,halooglasi,1150,Ekskluziva u Staroj Pazovi - stan 38 m2
+55,Stara Pazova,PR,1,68075,3.0,halooglasi,1250,"Ekskluziva u Staroj Pazovi - stan 54,46 m2"
+99,Stara Pazova,II,1,117984,4.0,halooglasi,1200,"Ekskluziva u Staroj Pazovi - stan 98,32 m2"
+49,Stara Pazova,I,1,55338,2.0,halooglasi,1150,"Ekskluziva u Staroj Pazovi - stan 48,12 m2"
+60,Beograd,II,1,67000,2.0,halooglasi,1117,Prodajem dvosoban stan u Sremčici
+94,Beograd,XII,1,333850,4.0,halooglasi,3552,"Voždove kapije, neuseljavan, garaža, ID 22251"
+56,Beograd,IV,1,101000,2.5,halooglasi,1804,Prodaja stana Mirijevo 56m2+terasa
+97,Beograd,VII,1,294000,3.0,halooglasi,3031,"Belvil, stan sa garažnim mestom"
+49,Beograd,XI,1,95000,1.5,halooglasi,1939,Jednoiposoban stan na Konjarniku |Ustanicka | 49m2
+64,Beograd,III,1,139000,3.0,halooglasi,2172,"Milana Stepanovića Matroza, Prvomajska, Zemun"
+81,Beograd,I,1,225000,4.0,halooglasi,2804,"Davida Pajića, Lekino brdo, Voždovac"
+55,Stara Pazova,PR,1,59900,2.5,halooglasi,1100,Stara Pazova; Direktno od investitora
+39,Beograd,I,1,68250,1.5,halooglasi,1750,Jednoiposobni stanovi od 29m2 do 46m2
+124,Beograd,II,1,335000,4.0,halooglasi,2702,"Udoban 4.0, nov Lux, Vojvode Stepe, mermerni ulaz"
+48,Beograd,V,1,139000,1.5,halooglasi,2896,"Stan u srcu Vračara, u blizini Kalenić pijace"
+area,city,floor,location,price,rooms,source,square_price,title
+30,Novi Sad,1,"Banatić, Gradske lokacije",62000,1.0,4zida,2067,Železnička stanica
+30,Novi Sad,1,"Banatić, Gradske lokacije",62000,1.0,4zida,2067,Železnička stanica
+25,Beograd,1,"Vidikovac, Rakovica opština",48000,0.5,4zida,1920,Kneza Višeslava
+38,Niš,2,"Medijana, Gradske lokacije",86600,1.5,4zida,2279,Bulevar Nemanjića
+82,Niš,5,"Pantelej, Gradske lokacije",86000,3.5,4zida,1049,Durlan
+121,Novi Sad,3,"Grbavica, Gradske lokacije",118450,4.0,4zida,2692,Novogradnja na Grbavici
+55,Niš,4,"Bulevar Nemanjića, Medijana, Gradske lokacije",83200,2.0,4zida,1513,Park Svetog Save
+43,Niš,2,"Pantelej, Gradske lokacije",66650,1.5,4zida,1550,Somborska
+65,Niš,3,"Pantelej, Gradske lokacije",92000,3.0,4zida,1415,Durlan
+40,Niš,7,"Pantelej, Gradske lokacije",65000,1.5,4zida,1625,Somborska
+123,Kragujevac,2,"Stari Grad, Gradske lokacije",99750,4.0,4zida,1882,Novogradnja Kragujevac - Janka Veselinovića - Milovana Gušića - Svetozara Markovića
+30,Novi Sad,6,"Liman, Gradske lokacije",82500,1.0,4zida,2750,Liman 4
+70,Beograd,4,"Hotel YU, Novi Beograd",165000,3.0,4zida,2357,Aleksinackih rudara
+84,Beograd,2,"Mirijevo, Zvezdara opština",156000,3.5,4zida,1857,Koste Nadja
+62,Beograd,0,"Blok 45, Novi Beograd",139000,2.5,4zida,2242,Jurija Gagarina
+79,Kragujevac,3,"Erdoglija, Gradske lokacije",126037,3.0,4zida,1595,Harmony Homes
+74,Beograd,6,"Botanička Bašta, Palilula opština",224000,3.0,4zida,3027,Bul. despota Stefana
+73,Beograd,16,"Blok 23, Novi Beograd",179900,3.0,4zida,2464,Bul. Milutina Milankovica
+67,Beograd,9,"Vidikovac, Rakovica opština",99000,2.5,4zida,1478,Vidikovacki venac
+67,Beograd,0,"Borča, Palilula opština",93700,2.0,4zida,1399,Borča IV i V
+60,Beograd,1,"Bulbulder, Zvezdara opština",176000,3.0,4zida,2933,Mariborska
+area,city,floor,location,price,rooms,source,square_price,title
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+37,Beograd,VI,1,124000,1.0,halooglasi,3351,Atraktivna garsonjera Novi Beograd
+62,Stara Pazova,I,1,71300,3.0,halooglasi,1150,Ekskluziva u Staroj Pazovi - stan 38 m2
+55,Stara Pazova,PR,1,68075,3.0,halooglasi,1250,"Ekskluziva u Staroj Pazovi - stan 54,46 m2"
+99,Stara Pazova,II,1,117984,4.0,halooglasi,1200,"Ekskluziva u Staroj Pazovi - stan 98,32 m2"
+49,Stara Pazova,I,1,55338,2.0,halooglasi,1150,"Ekskluziva u Staroj Pazovi - stan 48,12 m2"
+60,Beograd,II,1,67000,2.0,halooglasi,1117,Prodajem dvosoban stan u Sremčici
+94,Beograd,XII,1,333850,4.0,halooglasi,3552,"Voždove kapije, neuseljavan, garaža, ID 22251"
+56,Beograd,IV,1,101000,2.5,halooglasi,1804,Prodaja stana Mirijevo 56m2+terasa
+97,Beograd,VII,1,294000,3.0,halooglasi,3031,"Belvil, stan sa garažnim mestom"
+49,Beograd,XI,1,95000,1.5,halooglasi,1939,Jednoiposoban stan na Konjarniku |Ustanicka | 49m2
+64,Beograd,III,1,139000,3.0,halooglasi,2172,"Milana Stepanovića Matroza, Prvomajska, Zemun"
+81,Beograd,I,1,225000,4.0,halooglasi,2804,"Davida Pajića, Lekino brdo, Voždovac"
+55,Stara Pazova,PR,1,59900,2.5,halooglasi,1100,Stara Pazova; Direktno od investitora
+39,Beograd,I,1,68250,1.5,halooglasi,1750,Jednoiposobni stanovi od 29m2 do 46m2
+124,Beograd,II,1,335000,4.0,halooglasi,2702,"Udoban 4.0, nov Lux, Vojvode Stepe, mermerni ulaz"
+48,Beograd,V,1,139000,1.5,halooglasi,2896,"Stan u srcu Vračara, u blizini Kalenić pijace"
+area,city,floor,location,price,rooms,source,square_price,title
+30,Novi Sad,1,"Banatić, Gradske lokacije",62000,1.0,4zida,2067,Železnička stanica
+30,Novi Sad,1,"Banatić, Gradske lokacije",62000,1.0,4zida,2067,Železnička stanica
+25,Beograd,1,"Vidikovac, Rakovica opština",48000,0.5,4zida,1920,Kneza Višeslava
+38,Niš,2,"Medijana, Gradske lokacije",86600,1.5,4zida,2279,Bulevar Nemanjića
+82,Niš,5,"Pantelej, Gradske lokacije",86000,3.5,4zida,1049,Durlan
+121,Novi Sad,3,"Grbavica, Gradske lokacije",118450,4.0,4zida,2692,Novogradnja na Grbavici
+55,Niš,4,"Bulevar Nemanjića, Medijana, Gradske lokacije",83200,2.0,4zida,1513,Park Svetog Save
+43,Niš,2,"Pantelej, Gradske lokacije",66650,1.5,4zida,1550,Somborska
+65,Niš,3,"Pantelej, Gradske lokacije",92000,3.0,4zida,1415,Durlan
+40,Niš,7,"Pantelej, Gradske lokacije",65000,1.5,4zida,1625,Somborska
+123,Kragujevac,2,"Stari Grad, Gradske lokacije",99750,4.0,4zida,1882,Novogradnja Kragujevac - Janka Veselinovića - Milovana Gušića - Svetozara Markovića
+30,Novi Sad,6,"Liman, Gradske lokacije",82500,1.0,4zida,2750,Liman 4
+70,Beograd,4,"Hotel YU, Novi Beograd",165000,3.0,4zida,2357,Aleksinackih rudara
+84,Beograd,2,"Mirijevo, Zvezdara opština",156000,3.5,4zida,1857,Koste Nadja
+62,Beograd,0,"Blok 45, Novi Beograd",139000,2.5,4zida,2242,Jurija Gagarina
+79,Kragujevac,3,"Erdoglija, Gradske lokacije",126037,3.0,4zida,1595,Harmony Homes
+74,Beograd,6,"Botanička Bašta, Palilula opština",224000,3.0,4zida,3027,Bul. despota Stefana
+73,Beograd,16,"Blok 23, Novi Beograd",179900,3.0,4zida,2464,Bul. Milutina Milankovica
+67,Beograd,9,"Vidikovac, Rakovica opština",99000,2.5,4zida,1478,Vidikovacki venac
+67,Beograd,0,"Borča, Palilula opština",93700,2.0,4zida,1399,Borča IV i V
+60,Beograd,1,"Bulbulder, Zvezdara opština",176000,3.0,4zida,2933,Mariborska
+area,city,floor,location,price,rooms,source,square_price,title
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+71,Beograd,II,1,175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2"
+103,Beograd,I,1,618000,4.0,halooglasi,6000,"Stari grad, centar - Stevana Sremca, 103m2"
+37,Beograd,VI,1,124000,1.0,halooglasi,3351,Atraktivna garsonjera Novi Beograd
+62,Stara Pazova,I,1,71300,3.0,halooglasi,1150,Ekskluziva u Staroj Pazovi - stan 38 m2
+55,Stara Pazova,PR,1,68075,3.0,halooglasi,1250,"Ekskluziva u Staroj Pazovi - stan 54,46 m2"
+99,Stara Pazova,II,1,117984,4.0,halooglasi,1200,"Ekskluziva u Staroj Pazovi - stan 98,32 m2"
+49,Stara Pazova,I,1,55338,2.0,halooglasi,1150,"Ekskluziva u Staroj Pazovi - stan 48,12 m2"
+60,Beograd,II,1,67000,2.0,halooglasi,1117,Prodajem dvosoban stan u Sremčici
+94,Beograd,XII,1,333850,4.0,halooglasi,3552,"Voždove kapije, neuseljavan, garaža, ID 22251"
+56,Beograd,IV,1,101000,2.5,halooglasi,1804,Prodaja stana Mirijevo 56m2+terasa
+97,Beograd,VII,1,294000,3.0,halooglasi,3031,"Belvil, stan sa garažnim mestom"
+49,Beograd,XI,1,95000,1.5,halooglasi,1939,Jednoiposoban stan na Konjarniku |Ustanicka | 49m2
+64,Beograd,III,1,139000,3.0,halooglasi,2172,"Milana Stepanovića Matroza, Prvomajska, Zemun"
+81,Beograd,I,1,225000,4.0,halooglasi,2804,"Davida Pajića, Lekino brdo, Voždovac"
+55,Stara Pazova,PR,1,59900,2.5,halooglasi,1100,Stara Pazova; Direktno od investitora
+39,Beograd,I,1,68250,1.5,halooglasi,1750,Jednoiposobni stanovi od 29m2 do 46m2
+124,Beograd,II,1,335000,4.0,halooglasi,2702,"Udoban 4.0, nov Lux, Vojvode Stepe, mermerni ulaz"
+48,Beograd,V,1,139000,1.5,halooglasi,2896,"Stan u srcu Vračara, u blizini Kalenić pijace"
