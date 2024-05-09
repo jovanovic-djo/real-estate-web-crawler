@@ -73,6 +73,7 @@ ROBOTSTXT_OBEY = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 # ITEM_PIPELINES = {
 #    "realestate.pipelines.Apartments4zidaPipeline": 300,
+#    "realestate.pipelines.ApartmentsHaloOglasiPipeline": 300,
 # }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
