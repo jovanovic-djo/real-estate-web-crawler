@@ -15,6 +15,9 @@ OUTPUT_CSV = f'{DATA_DIR}/apartments_cleaned.csv'
 
 COLUMNS = ['title', 'city', 'location', 'price', 'square_price', 'area', 'rooms', 'floor', 'source', 'year']
 
+# Sources are published as numeric codes instead of website names
+SOURCE_CODES = {'4zida': 1, 'halooglasi': 2}
+
 MIN_AREA, MAX_AREA = 10, 1000
 MIN_PRICE, MAX_PRICE = 9900, 10_000_000
 # Also catches prices entered in dinars instead of euros
@@ -47,7 +50,7 @@ def clean_row(row, stats):
     row['title'] = clean_text(row['title'])
     row['city'] = clean_text(row['city'])
     row['location'] = clean_location(row['location'])
-    row['source'] = clean_text(row['source'])
+    row['source'] = SOURCE_CODES[clean_text(row['source'])]
     row['floor'] = clean_text(row['floor']).lower() or 'n/a'
 
     try:
