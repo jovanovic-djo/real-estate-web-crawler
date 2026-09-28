@@ -11,6 +11,7 @@ from collections import Counter
 DATA_DIR = 'realestate/spiders'
 DATA_2024_CSV = f'{DATA_DIR}/apartmentsdata.csv'        # scraped May 2024 (4zida + halooglasi)
 DATA_2026_CSV = f'{DATA_DIR}/apartmentsdata2026.csv'    # scraped September 2026 (4zida)
+
 OUTPUT_CSV = f'{DATA_DIR}/apartments_dataset.csv'
 
 COLUMNS = ['title', 'city', 'location', 'price', 'square_price', 'area', 'rooms', 'floor', 'source', 'year']
