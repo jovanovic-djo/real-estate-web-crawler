@@ -22,19 +22,26 @@ class ApartmentSpider4Zida(scrapy.Spider):
 
     def parse(self, response):
 
-        apartments = response.css('div.flex.flex-col.gap-4')
-        
+        apartments = response.css('div[test-data="ad-search-card"]')
+
         for item in apartments:
             apartment_item = ApartmentItem()
 
-            apartment_item['title'] = item.css('p.truncate.font-medium.leading-tight.desk\:text-lg::text').get()
-            apartment_item['price'] = item.css('p.rounded-tl.bg-spotlight.px-2.py-1.text-lg.font-bold.desk\\:text-2xl::text').get()
-            apartment_item['square_price'] = item.css('p.rounded-bl.border.border-spotlight.bg-spotlight-300.px-2.text-2xs.font-medium.text-spotlight-700.desk\\:text-xs::text').get()
-            apartment_item['area'] = item.css('a.px-1.py-3.text-center.font-bold.leading-\\[0\\.9rem\\]::text').get() 
-            apartment_item['rooms'] = item.css('a.px-1.py-3.text-center.font-bold.leading-\\[0\\.9rem\\]::text').get() 
-            apartment_item['floor'] = item.css('a.px-1.py-3.text-center.font-bold.leading-\\[0\\.9rem\\]::text').get() 
-            apartment_item['city'] = item.css('p.line-clamp-2.text-wrap.text-xs.\\!leading-tight.text-foreground\\/60.desk\\:line-clamp-3.desk\\:text-sm::text').get() 
-            apartment_item['location'] = item.css('p.line-clamp-2.text-wrap.text-xs.\\!leading-tight.text-foreground\\/60.desk\\:line-clamp-3.desk\\:text-sm::text').get()
+            # Header link holds title, location, price and price per m² as <p> elements
+            header = item.css('a.justify-between')
+            location = header.xpath('.//p[contains(@class, "line-clamp-2")]/text()').get()
+
+            # Feature chips, e.g. ['52m²', '2 sobe', '7/13 spratova', 'Prazno', 'Uknjiženo']
+            chips = [chip.strip() for chip in item.css('span.truncate::text').getall()]
+
+            apartment_item['title'] = header.xpath('.//p[contains(@class, "truncate")]/text()').get()
+            apartment_item['price'] = header.xpath('.//p[contains(., "€") and not(contains(., "€/m²"))]//text()').get()
+            apartment_item['square_price'] = header.xpath('.//p[contains(., "€/m²")]/text()').get()
+            apartment_item['area'] = next((c for c in chips if c.endswith('m²')), None)
+            apartment_item['rooms'] = next((c for c in chips if 'sob' in c), None)
+            apartment_item['floor'] = next((c for c in chips if any(k in c.lower() for k in ('sprat', 'prizemlje', 'suteren', 'potkrovlje'))), 'n/a')
+            apartment_item['city'] = location
+            apartment_item['location'] = location
             apartment_item['source'] = "4zida"
 
             yield apartment_item

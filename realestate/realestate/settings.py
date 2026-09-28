@@ -24,6 +24,8 @@ USER_AGENTS = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76',
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0'
 ]
+# Default UA for requests without an explicit header (e.g. start_urls), so they match the randomized follow-up requests
+USER_AGENT = USER_AGENTS[0]
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
