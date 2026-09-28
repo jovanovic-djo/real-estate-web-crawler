@@ -25,18 +25,18 @@ class Apartments4ZidaPipeline:
 
             adapter['square_price'] = int(adapter['square_price'].replace('.','').replace('€/m²', '').strip())
 
-            adapter['area'] = int(adapter['area'].split('m')[0])
+            adapter['area'] = int(math.ceil(float(adapter['area'].split('m')[0].replace(',', '.').strip())))
 
-            adapter['rooms'] = float(adapter['rooms'].split('•')[1].split('•')[0].strip().split(' ')[0])
+            # '2 sobe', '1.5 soba', '5+ soba'
+            adapter['rooms'] = float(adapter['rooms'].split(' ')[0].replace('+', ''))
 
-            if len(adapter['floor']) < 15:
-                adapter['floor'] = 'n/a'
-            else:
-                adapter['floor'] = adapter['floor'].split('•')[-1].strip().lower()
+            # '7/13 spratova', '1. sprat', 'potkrovlje/3 sprata' or 'n/a'
+            if adapter['floor'] != 'n/a':
+                adapter['floor'] = adapter['floor'].strip().lower()
                 if '/' in adapter['floor']:
-                    adapter['floor'] = adapter['floor'].split('/')[0]
+                    adapter['floor'] = adapter['floor'].split('/')[0].strip()
                 else:
-                    adapter['floor'] = adapter['floor'].split('.')[0]
+                    adapter['floor'] = adapter['floor'].split('.')[0].strip()
             match adapter['floor']:
                 case "potkrovlje":
                     adapter['floor'] = 'p'
